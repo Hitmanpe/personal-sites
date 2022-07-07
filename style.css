@@ -1,0 +1,19 @@
+h1:hover
+{
+  color: silver;
+}
+.bird
+{
+  background-color: red;
+}
+
+.b
+{
+  background-image: repeating-linear-gradient();
+  background-color: green;
+}
+
+#p1
+{
+  color:gold;
+}
